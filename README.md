@@ -1,4 +1,4 @@
-##Vending Machine
+## Vending Machine
 
 Contact Christian.Thai3@gmail.com for comments and questions.
 
